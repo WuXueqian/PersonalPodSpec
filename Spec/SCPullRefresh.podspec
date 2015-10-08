@@ -9,6 +9,8 @@ Pod::Spec.new do |s|
   s.source_files = 'SCPullRefresh/**/*'
   s.requires_arc = true
 
+  s.dependency 'FrameAccessor', '~> 2.0'
+
   s.platform = :ios, '7.0'
   s.ios.deployment_target = '7.0'
   s.frameworks = 'Foundation', 'UIKit'
