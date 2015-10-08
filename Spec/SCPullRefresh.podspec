@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = "singro"
   s.source       = { :git => "https://github.com/singro/SCPullRefresh.git", :tag => "master".to_s }
-  s.source_files = 'SCPullRefresh'
+  s.source_files = 'SCPullRefresh/**/*'
   s.requires_arc = true
 
   s.platform = :ios, '7.0'
