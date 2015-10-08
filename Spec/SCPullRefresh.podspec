@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SCPullRefresh"
-  s.version      = "0.1"
+  s.version      = "0.0.1"
   s.summary      = "A pull refresh for easily customize refresh animation"
   s.homepage     = "https://github.com/singro/SCPullRefresh"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
