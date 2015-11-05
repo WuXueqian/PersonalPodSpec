@@ -11,5 +11,8 @@ Personal Cocoa Pod Specification
 * Name - FontAwesome+iOS
 * Author - Alex Usbergo
 * Link - [https://github.com/alexdrone/ios-fontawesome][1]
+# How to use
+* edit your podfile
+* add a new line likes: pod 'WordPressApi', :podspec =\> 'https://raw.github.com/koke/WordPressApi/master/WordPressApi.podspec'
 
 [1]:	https://github.com/alexdrone/ios-fontawesome
