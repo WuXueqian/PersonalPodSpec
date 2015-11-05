@@ -7,3 +7,9 @@ Personal Cocoa Pod Specification
 * Name - SCPullRefresh
 * Auhtor - singro
 * Link - https://github.com/singro/SCPullRefresh
+## 2. FontAwesome+iOS
+* Name - FontAwesome+iOS
+* Author - Alex Usbergo
+* Link - [https://github.com/alexdrone/ios-fontawesome][1]
+
+[1]:	https://github.com/alexdrone/ios-fontawesome
